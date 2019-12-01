@@ -1,4 +1,4 @@
-
+//Created by Ben Rafalski with help from Professor Block's Magic.java to make a kilometer to mile converter with average calculator to practice j-testing
 public class StartD {
 
 	
