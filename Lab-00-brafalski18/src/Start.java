@@ -1,4 +1,4 @@
-
+// A simple "Hello World" program to get used to Java with added help from Professor Block's Magic.java program 
 public class Start {
 
 	public static void main(String[] args) {
