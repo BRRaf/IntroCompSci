@@ -1,4 +1,4 @@
-
+// Created by Ben Rafalski with help from Professor Block's Magic.java to create a calender calculator that is j-testable
 public class StartCB {
 	
 	
