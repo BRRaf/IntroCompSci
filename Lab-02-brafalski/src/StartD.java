@@ -1,4 +1,4 @@
-
+//Created by Ben Rafalski with help from Professor Block's Magic.java to make a kilometer to mile calculator
 
 public class StartD {
 
