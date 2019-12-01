@@ -1,4 +1,4 @@
-
+//Created by Ben Rafalski with help from Professor Block's Magic.java to calculate grade average using methods
 public class StartCB {
 	// Method 1
 	public static double Grades(int testGrade, int labGrade, int participationGrade) {
