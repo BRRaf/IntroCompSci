@@ -1,4 +1,4 @@
-
+// created by Ben Rafalski with help from Professor Block's Magic.Java to create a pregnency calculator
 public class StartA {
 
 	public static void main(String[] args) {
