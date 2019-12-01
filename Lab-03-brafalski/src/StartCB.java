@@ -1,5 +1,5 @@
-// Created by Ben Rafalski with help from Professor Block's Magic.java to make a checkerboard of two colors
-public class StartCB {
+// Created by Ben Rafalski with help from Professor Block's Magic.java to make a checkerboard of two colors and creating an anagram machine
+public class StartCB { 
 
 
 
