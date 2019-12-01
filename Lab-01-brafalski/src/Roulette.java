@@ -1,4 +1,4 @@
-
+//Created by Ben Rafalski with help from Professor Block's Magic.java to create a Roulette game 
 public class Roulette {
 
 	public static void main(String[] args) {
