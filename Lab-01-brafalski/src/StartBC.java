@@ -1,4 +1,4 @@
-
+//Created by Ben Rafalski with help from Professor Block's Magic.java program to create a mean calculator
 public class StartBC {
 
 	public static void main(String[] args) {
