@@ -1,4 +1,4 @@
-
+// Created by Ben Rafalski with help from Professor Block's Magic.java to create a basic turn based fight game
 public class PokeprogramStartA {
 	
 	public static int Weak(int strength) {
