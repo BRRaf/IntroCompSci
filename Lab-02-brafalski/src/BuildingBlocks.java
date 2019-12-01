@@ -1,4 +1,4 @@
-
+//A program used for practicing methods
 public class BuildingBlocks { 
 
 	public static int adder(int left, int middle, int right){
