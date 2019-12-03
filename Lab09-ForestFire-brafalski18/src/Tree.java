@@ -1,6 +1,7 @@
 import java.awt.Color;
 import java.awt.Graphics;
 
+// A simple square object to simulate a tree
 
 public class Tree {
 	private int x;
