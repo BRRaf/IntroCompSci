@@ -4,7 +4,11 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.Timer;
 
-
+/*Created by Ben Rafalski, this program creates a randomly generated series of different colored squares. 
+* When the green squares are clicked on, they will simulate a 'fire' by turning all nearby green squares 
+* red and then grey
+*
+*/
 
 public class Starter {
 
