@@ -9,6 +9,12 @@ import java.util.Random;
 import javax.swing.Timer;
 import javax.swing.JPanel;
 
+/*
+* This program creates a panel that is filled with square objects, setting their color and state.
+* This program can also change a square state based on color and mouse press location
+*
+*
+*/ 
 
 public class ForestPanel extends JPanel implements ActionListener, MouseListener {
 
